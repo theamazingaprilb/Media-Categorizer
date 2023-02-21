@@ -1,9 +1,9 @@
 <?php
 /*
 Plugin Name: Media-Categorizer
-Author: Doug Marshall
+Author: April Marshall
 Description: Categorize your media into folders by Year and month
-Author URI: https://www.theamazingdoug.com
+Author URI: https://www.aprilagain.com
 
 {Media-Categorizer} is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
